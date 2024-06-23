@@ -1,12 +1,12 @@
 CREATE TABLE Student (
-    ID CHAR(10) PRIMARY KEY,
+    NRP CHAR(10) PRIMARY KEY,
     name VARCHAR(50),
     email VARCHAR(50),
     password VARCHAR(50)
 );
 
 CREATE TABLE Assistant (
-    ID CHAR(10) PRIMARY KEY,
+    NRP CHAR(10) PRIMARY KEY,
     name VARCHAR(50),
     email VARCHAR(50),
     password VARCHAR(50)
@@ -28,7 +28,7 @@ CREATE TABLE Session (
     timeStart TIMESTAMP,
     timeEnd TIMESTAMP NULL,
     Assistant_NRP CHAR(10),
-    FOREIGN KEY (Assistant_NRP) REFERENCES Assistant(ID)
+    FOREIGN KEY (Assistant_NRP) REFERENCES Assistant(NRP)
 );
 
 CREATE TABLE Student_Session (
@@ -36,5 +36,6 @@ CREATE TABLE Student_Session (
     Student_NRP CHAR(10),
     Session_ID INT,
     presence BOOLEAN,
-    FOREIGN KEY (Student_NRP) REFERENCES Student(ID),
-    FOREIGN KEY (Session_ID) REFERENCES Session(I
+    FOREIGN KEY (Student_NRP) REFERENCES Student(NRP),
+    FOREIGN KEY (Session_ID) REFERENCES Session(ID)
+);

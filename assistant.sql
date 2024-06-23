@@ -1,4 +1,4 @@
-INSERT INTO Assistant (ID, name, email, password) VALUES 
+INSERT INTO Assistant (NRP, name, email, password) VALUES 
 ('5025211001', 'Historia Reiss', 'historia.reiss@example.com', '44Ie1v3h'),
 ('5025211002', 'Killua Zoldyck', 'killua.zoldyck@example.com', '0E9d44GQ'),
 ('5025211003', 'Rimuru Tempest', 'rimuru.tempest@example.com', 'vGTa2nY6'),

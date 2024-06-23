@@ -1,4 +1,4 @@
-INSERT INTO Student (ID, name, email, password) VALUES 
+INSERT INTO Student (NRP, name, email, password) VALUES 
 ('5025221001', 'Goku', 'goku@example.com', 'NMC5aVYc'),
 ('5025221002', 'Yoruichi Shihouin', 'yoruichi.shihouin@example.com', 'Jzz4HVIs'),
 ('5025221003', 'Robin', 'robin@example.com', 'SXp3vweQ'),
