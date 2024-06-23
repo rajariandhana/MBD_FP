@@ -37,4 +37,5 @@ CREATE TABLE Student_Session (
     Session_ID INT,
     presence BOOLEAN,
     FOREIGN KEY (Student_NRP) REFERENCES Student(ID),
-    FOREIGN KEY (Session_ID) REFERENCES Session(I
+    FOREIGN KEY (Session_ID) REFERENCES Session(ID)
+);
