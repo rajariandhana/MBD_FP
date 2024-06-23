@@ -98,4 +98,4 @@ INSERT INTO Student (NRP, name, email, password) VALUES
 ('5025221097', 'Jinbe', 'jinbe@example.com', '1FIiFKvw'),
 ('5025221098', 'Endeavor', 'endeavor@example.com', 'SAJ8aI2I'),
 ('5025221099', 'Goku', 'goku@example.com', '3lR5Q1Zm'),
-('5025221100', 'Erwin Smith', 'erwin.smith@example.com', 'hgXuTy5r');
+('5025221100', 'Erwin Smith', 'erwin.smith@example.com', 'hgXuTy5r')

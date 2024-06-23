@@ -20,6 +20,7 @@ CREATE TABLE Course (
 CREATE TABLE Task (
     ID INT AUTO_INCREMENT PRIMARY KEY,
     Course_ID CHAR(8),
+    title VARCHAR(50),
     FOREIGN KEY (Course_ID) REFERENCES Course(ID)
 );
 
