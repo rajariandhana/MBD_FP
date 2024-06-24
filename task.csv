@@ -1,0 +1,103 @@
+Course_ID, title
+EF234101, Assignment 1: Hello World Program
+EF234101, Assignment 2: Basic Loops
+EF234101, Quiz 1: Introduction to Programming
+EF234102, Lab 1: Basic Logic Gates
+EF234102, Assignment 1: Simple Circuit Design
+EF234102, Quiz 1: Digital Systems Basics
+EF234103, Assignment 1: Matrix Operations
+EF234103, Assignment 2: Vector Spaces
+EF234103, Quiz 1: Linear Algebra Fundamentals
+EF234104, Lab 1: Setting up MySQL
+EF234104, Assignment 1: Basic SQL Queries
+EF234104, Quiz 1: Database Concepts
+EF234201, Assignment 1: Linked Lists
+EF234201, Assignment 2: Binary Trees
+EF234201, Quiz 1: Data Structures Basics
+EF234202, Lab 1: Process Management
+EF234202, Assignment 1: File Systems
+EF234202, Quiz 1: Operating System Concepts
+EF234203, Assignment 1: CPU Architecture
+EF234203, Assignment 2: Memory Hierarchy
+EF234203, Quiz 1: Computer Organization Basics
+EF234204, Lab 1: Numerical Methods
+EF234204, Assignment 1: Root Finding Algorithms
+EF234204, Quiz 1: Numerical Computation
+EF234301, Lab 1: HTML Basics
+EF234301, Assignment 1: Basic Webpage Design
+EF234301, Quiz 1: Web Programming
+EF234302, Assignment 1: Classes and Objects
+EF234302, Assignment 2: Inheritance and Polymorphism
+EF234302, Quiz 1: Object-Oriented Programming
+EF234303, Lab 1: Network Topologies
+EF234303, Assignment 1: TCP/IP Model
+EF234303, Quiz 1: Computer Networks
+EF234304, Assignment 1: Graph Representation
+EF234304, Assignment 2: Graph Traversal Algorithms
+EF234304, Quiz 1: Graph Theory
+EF234305, Assignment 1: Logic and Proofs
+EF234305, Assignment 2: Sets and Functions
+EF234305, Quiz 1: Discrete Mathematics
+EK234201, Assignment 1: Introduction to AI
+EK234201, Assignment 2: AI Problem Solving
+EK234201, Quiz 1: AI Concepts
+EF234307, Lab 1: Software Development Tools
+EF234307, Assignment 1: Software Design Patterns
+EF234307, Quiz 1: Software Development Principles
+EF234401, Lab 1: Socket Programming
+EF234401, Assignment 1: Network Protocols
+EF234401, Quiz 1: Network Programming
+EF234402, Assignment 1: Probability Theory
+EF234402, Assignment 2: Statistical Methods
+EF234402, Quiz 1: Probabilistic and Statistic
+EF234403, Assignment 1: Automata Theory
+EF234403, Assignment 2: Formal Languages
+EF234403, Quiz 1: Automata
+EF234404, Lab 1: Database Administration
+EF234404, Assignment 1: Advanced SQL Queries
+EF234404, Quiz 1: Database Management
+EF234405, Assignment 1: Algorithm Analysis
+EF234405, Assignment 2: Design Techniques
+EF234405, Quiz 1: Algorithm Design
+EF234406, Lab 1: Introduction to ML
+EF234406, Assignment 1: Supervised Learning
+EF234406, Quiz 1: Machine Learning
+ER234301, Assignment 1: Software Requirements
+ER234301, Assignment 2: Design Patterns
+ER234301, Quiz 1: Software Design
+EF234501, Lab 1: Framework Setup
+EF234501, Assignment 1: Framework Usage
+EF234501, Quiz 1: Framework-based Programming
+EF234502, Assignment 1: Cryptography Basics
+EF234502, Assignment 2: Network Security
+EF234502, Quiz 1: Information Security
+EF234503, Assignment 1: Simulation Models
+EF234503, Assignment 2: Model Analysis
+EF234503, Quiz 1: Modeling and Simulation
+EF234504, Lab 1: Graphics Programming
+EF234504, Assignment 1: 2D Graphics
+EF234504, Quiz 1: Computer Graphics
+EF234505, Assignment 1: Knowledge Representation
+EF234505, Assignment 2: Expert Systems
+EF234505, Quiz 1: Knowledge Based Engineering
+EF234601, Lab 1: Mobile App Development
+EF234601, Assignment 1: Basic Mobile App
+EF234601, Quiz 1: Mobile Programming
+EF234602, Assignment 1: User Interface Design
+EF234602, Assignment 2: Usability Testing
+EF234602, Quiz 1: Human and Computer Interaction
+EF234622, Project 1: Capstone Proposal
+EF234622, Project 2: Capstone Development
+EF234622, Project 3: Capstone Presentation
+EF234603, Assignment 1: Work Report
+EF234603, Assignment 2: Practical Evaluation
+EF234603, Quiz 1: Practical Work
+EF234701, Assignment 1: Professional Ethics Cases
+EF234701, Assignment 2: Ethical Dilemmas
+EF234701, Quiz 1: Professional Ethics
+EF234702, Assignment 1: Pre-Thesis Proposal
+EF234702, Assignment 2: Pre-Thesis Draft
+EF234702, Quiz 1: Undergraduate Pre-Thesis
+EF234801, Project 1: Thesis Proposal
+EF234801, Project 2: Thesis Draft
+EF234801, Project 3: Thesis Defense

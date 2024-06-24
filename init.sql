@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS Student_Session, Session, Task, Course, Student, Assistant, Notification;
 CREATE TABLE Student (
     NRP CHAR(10) PRIMARY KEY,
     name VARCHAR(50),
@@ -29,7 +30,9 @@ CREATE TABLE Session (
     timeStart TIMESTAMP,
     timeEnd TIMESTAMP NULL,
     Assistant_NRP CHAR(10),
-    FOREIGN KEY (Assistant_NRP) REFERENCES Assistant(NRP)
+    Task_ID INT,
+    FOREIGN KEY (Assistant_NRP) REFERENCES Assistant(NRP),
+    FOREIGN KEY (Task_ID) REFERENCES Task(ID)
 );
 
 CREATE TABLE Student_Session (
@@ -39,4 +42,10 @@ CREATE TABLE Student_Session (
     presence BOOLEAN,
     FOREIGN KEY (Student_NRP) REFERENCES Student(NRP),
     FOREIGN KEY (Session_ID) REFERENCES Session(ID)
+);
+
+CREATE TABLE Notification (
+    ID INT  AUTO_INCREMENT PRIMARY KEY,
+    recipientEmail varchar(50),
+    message varchar(100)
 );
