@@ -45,7 +45,7 @@ CREATE TABLE Student_Session (
 );
 
 CREATE TABLE Notification (
-    ID INT  PRIMARY KEY,
+    ID INT  AUTO_INCREMENT PRIMARY KEY,
     recipientEmail varchar(50),
     message varchar(100)
 );
