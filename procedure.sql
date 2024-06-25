@@ -20,6 +20,8 @@ DELIMITER ;
 
 CALL CreateSession(5025211002, '2024-07-01 14:00:00', 1);
 CALL CreateSession(5025211003, '2024-07-01 14:00:00', 2);
+CALL CreateSession(5025211004, '2024-07-01 14:00:00', 3);
+
 
 -- 
 DELIMITER //
@@ -59,3 +61,10 @@ CALL BookSession('5025221006', 21);
 CALL BookSession('5025221007', 22);
 CALL BookSession('5025221008', 22);
 CALL BookSession('5025221009', 22);
+
+CALL BookSession('5025221007',23);
+CALL BookSession('5025221008',23);
+CALL BookSession('5025221009',23);
+CALL BookSession('5025221010',23);
+CALL BookSession('5025221011',23);
+CALL BookSession('5025221012',23);
